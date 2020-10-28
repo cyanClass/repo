@@ -8,6 +8,7 @@
 </head>
 <body>
 로컬에서 수정
-main 페이지
+main 페이지  
+cmd에서 수정
 </body>
 </html>
